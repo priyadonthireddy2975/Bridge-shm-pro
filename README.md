@@ -3,8 +3,13 @@
 ![Status](https://img.shields.io/badge/Status-LIVE-success?style=for-the-badge&logo=activitypub)
 ![Stack](https://img.shields.io/badge/Tech-Next.js_14_|_Tailwind_|_Framer-000000?style=for-the-badge&logo=next.js)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpriyadonthireddy2975%2Fbridge-shm-pro)
 
 > **"The bridge is talking. Are you listening?"** 🎧🏗️
+
+## 🌐 **Live Demo**
+**[View Live Dashboard Prototype](https://bridge-shm-pro.vercel.app)**  
+*(Note: If the link is not active, click the "Deploy" button above to launch your own instance in minutes!)*
 
 ---
 
